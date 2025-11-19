@@ -56,7 +56,7 @@ system in the [Endo Pet-name Dæmon](packages/daemon) and its
 
 Please join the conversation on our [Mailing List][SES Strategy Group] and
 [Matrix][Endo Matrix].
-Reach out if you would like an ivitation to our **meetings**:
+Reach out if you would like an invitation to our **meetings**:
 
 - We record a weekly [Endo Sync video call][Endo Sync] .
 - We recorded a weekly [SES video call][SES Strategy Recordings] with the
